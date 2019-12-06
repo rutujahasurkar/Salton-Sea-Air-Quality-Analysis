@@ -1,4 +1,17 @@
-# Salton-Sea-Air-Quality-Analysis
+# Salton Sea Air Quality Analysis
+
+Course - FA19: CMPE-257 Sec 01 - Machine Learning
+
+Project Group - 5
+
+Group Members -
+
+Farhaan Patel(014493037),Lakshmi Vihita Kesiraju(014532817)
+
+Rushikesh Nileshbhai Bosamia(014491542),Rutuja Ravindra Hasurkar(014547793)
+
+
+Under the guidance of Dr. Jerry Gao
 
 
 
